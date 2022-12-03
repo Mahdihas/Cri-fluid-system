@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+PROJECT NAME : Cri Fluid system
+
+Live Link :   https://tourmaline-bombolone-b1dea4.netlify.app/
+
+
+Descripton : This a simple react pages That I have created as my Interview task.
+
+
+
+
+<!-- # Getting Started with Create React App -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
